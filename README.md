@@ -6,10 +6,10 @@ Este é o repositório principal do projeto **Smart Mushroom**, um sistema IoT p
 
 O projeto é dividido em sub-repositórios independentes:
 
-- **[smartmushroom-api](https://github.com/seu-usuario/smartmushroom-api)** → Backend PHP (CodeIgniter).
-- **[smartmushroom-db](https://github.com/seu-usuario/smartmushroom-db)** → Banco de Dados MySQL.
-- **[smartmushroom-firmware](https://github.com/seu-usuario/smartmushroom-firmware)** → Firmware do ESP32 (C++/Arduino).
-- **[smartmushroom-app](https://github.com/seu-usuario/smartmushroom-app)** → Aplicativo mobile (Flutter).
+- **[smartmushroom-api](https://github.com/luizEduCode/smartmushroom-api)** → Backend PHP (CodeIgniter).
+- **[smartmushroom-db](https://github.com/luizEduCode/smartmushroom-db)** → Banco de Dados MySQL.
+- **[smartmushroom-firmware](https://github.com/luizEduCode/smartmushroom-firmware)** → Firmware do ESP32 (C++/Arduino).
+- **[smartmushroom-app](https://github.com/luizEduCode/smartmushroom-app)** → Aplicativo mobile (Flutter).
 
 ## 📄 Documentação
 
